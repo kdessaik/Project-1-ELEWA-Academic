@@ -22,6 +22,9 @@
   
   body {
     margin: auto;
+    background-image: 
+    url("./tree.jpg");
+    background-color: #cccccc;
   }
   
   /**
@@ -414,7 +417,7 @@ body {
 }
 
 #main {
-  transition: margin-left .5s;
+  transition: margin-left.5s;
   padding: 16px;
 }
 
@@ -425,7 +428,7 @@ body {
 }
 
 img{
-  border-radius: 20%;
+  border-radius: 30%;
 }
 .openbtn{
 margin-left: 25% ;;
@@ -436,4 +439,9 @@ margin-left: 25% ;;
 }
 .Buttons{
   background-color: #ffd900;
+}
+
+.school{
+  color: rgb(236, 195, 11);
+  size:100%;
 }
