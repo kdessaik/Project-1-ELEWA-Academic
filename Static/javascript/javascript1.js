@@ -29,3 +29,8 @@ function Form4Course(){
 function FormDCourse(){
   window.location.href='pages/Dictionary.html';
 }
+function HomePage(){
+  window.location.href='index.html';
+  
+  
+}
