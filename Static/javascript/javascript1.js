@@ -30,7 +30,6 @@ function FormDCourse(){
   window.location.href='pages/Dictionary.html';
 }
 function HomePage(){
-  window.location.href='index.html';
-  
+  window.location.href='C:/Users/kdess/OneDrive/Bureau/js code/Project-1-ELEWA-Academic/index.html';
   
 }
