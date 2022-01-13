@@ -411,7 +411,7 @@ body {
   font-size: 20px;
   cursor: pointer;
   background-color: rgb(240, 240, 235);
-  color: rgb(235, 200, 3);
+  color: #FFA500;
   padding: 10px 15px;
   border: none;
 }
@@ -433,6 +433,7 @@ body {
 
 img{
   border-radius: 30%;
+  margin-bottom: 10%;
 }
 .openbtn{
 margin-left: 25% ;;
@@ -442,14 +443,29 @@ margin-left: 25% ;;
   font-size: smaller;
 }
 .Buttons{
-  background-color: #ffd900;
+  background-color: #FFA500;
 }
 
 .school{
-  color: rgb(236, 195, 11);
+  color: #FFA500;
   size:100%;
 }
 .openbtn{
   border-radius: 30%;
   background-color:#f1f1f1;
+}
+.para{
+  margin-left: 35%;
+  margin-top: -30%;
+  background-color: #eeeee6;
+  border-radius: 40%;
+  padding: 5%;
+}
+.main{
+  margin-right: 10%;
+}
+.container1{
+  flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:  space-around;
 }
