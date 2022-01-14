@@ -152,7 +152,7 @@ We/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
    */
   
   img {
-    border-style: none;
+    border-style:none;
     max-width:100%
   }
   
@@ -417,7 +417,7 @@ body {
 }
 
 .openbtn:hover {
-  background-color: #444;
+  background-color: #FFA500;
 }
 
 #main {
@@ -435,9 +435,7 @@ img{
   border-radius: 30%;
   margin-bottom: 10%;
 }
-.openbtn{
-margin-left: 25% ;;
-}
+
 .text-uppercase{
   
   font-size: smaller;
@@ -452,20 +450,25 @@ margin-left: 25% ;;
 }
 .openbtn{
   border-radius: 30%;
-  background-color:#f1f1f1;
+  background-color: transparent;
+  margin-left: 0%;
+  color: rgb(70, 57, 57);
+  
 }
 .para{
-  margin-left: 35%;
-  margin-top: -30%;
+  
   background-color: #eeeee6;
-  border-radius: 40%;
-  padding: 5%;
+  border-radius: 5%;
+  
 }
 .main{
   margin-right: 10%;
 }
-.container1{
+.flex-container{
+  display: flex;
   flex-wrap:wrap;
     flex-direction:row;
-    justify-content:  space-around;
+    justify-content: space-between;
+    
+    
 }
