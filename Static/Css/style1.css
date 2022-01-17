@@ -452,7 +452,8 @@ img{
   border-radius: 30%;
   background-color: transparent;
   margin-left: 0%;
-  color: rgb(70, 57, 57);
+  color: rgb(255, 255, 255);
+  size-adjust: 10%;
   
 }
 .para{
@@ -472,6 +473,34 @@ img{
     
     
 }
-.navbar{
-position: fixe
+
+.navbar,
+ navbar-expand-lg navbar-light{
+  position:fixed;
+  margin-right: 10%;
+  
+
+}
+
+.school{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.container img{
+  margin-right: 10%;
+}
+.navbar-nav a:hover{
+
+  
+}
+.navbar-nav{
+  margin-right: 0px;
+  
+}
+.container img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
 }
