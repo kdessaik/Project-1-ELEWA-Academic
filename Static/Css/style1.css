@@ -1,4 +1,4 @@
-We/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
    ========================================================================== */
@@ -455,6 +455,7 @@ img{
   background-color: transparent;
   margin-left: 0%;
   color: rgb(255, 255, 255);
+  font-size: 100%;
   
   
   
@@ -521,7 +522,7 @@ img{
   margin-left: 0%;
   color: rgb(255, 255, 255);
   size-adjust: 10%;
-  width: 15%;
+  width: 10%;
 }
 #main{
   display: flex;
