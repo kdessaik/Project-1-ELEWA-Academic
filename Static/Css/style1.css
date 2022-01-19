@@ -408,12 +408,14 @@ body {
 }
 
 .openbtn {
-  font-size: 20px;
+  font-size: 100%;
   cursor: pointer;
   background-color: rgb(240, 240, 235);
   color: #FFA500;
   padding: 10px 15px;
   border: none;
+  margin-top: 0%;
+  width: auto;
 }
 
 .openbtn:hover {
@@ -453,7 +455,8 @@ img{
   background-color: transparent;
   margin-left: 0%;
   color: rgb(255, 255, 255);
-  size-adjust: 10%;
+  
+  
   
 }
 .para{
@@ -467,9 +470,9 @@ img{
 }
 .flex-container{
   display: flex;
-  flex-wrap:wrap;
-    flex-direction:row;
-    justify-content: space-between;
+    flex-direction:inherit;
+    justify-content: space-around;
+
     
     
 }
@@ -478,6 +481,7 @@ img{
  navbar-expand-lg navbar-light{
   position:fixed;
   margin-right: 10%;
+  
   
 
 }
@@ -497,14 +501,35 @@ img{
   margin-right: 0px;
   
 }
-.container img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
 
-}
 .row img{
   width: 30%;
   margin: center;
 }
+#home:hover{
+  background-color: rgb(255, 166, 0);
+  background-size:  contain;
+}
+#home{
+  font-size: 20px;
+  cursor:pointer;
+  background-color: transparent;
+  color: #FFA500;
+  padding: 10px 15px;
+  border: none;
+  background-color: transparent;
+  margin-left: 0%;
+  color: rgb(255, 255, 255);
+  size-adjust: 10%;
+  width: 15%;
+}
+#main{
+  display: flex;
+  flex-direction: row;
+  top: 0;
+  width: 5%;
+}
+#img-padding{
+  margin-top: 10%;
+}
+body {margin:0;}
