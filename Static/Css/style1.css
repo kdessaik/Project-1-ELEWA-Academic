@@ -109,14 +109,17 @@ img{
   
 }
 .para{
+  
   border-radius: 10% 10% 80% 80%;
-  width: 50%;
+  width: 40%;
   height:310px ;
   color: #000000;
   background: rgb(240, 204, 0,0.7);
   font-weight: bolder;
   font-family: "Sofia", sans-serif;
   font-size: 90%;
+  
+  float: right ;
 }
 .main{
   margin-right: 10%;
@@ -173,6 +176,7 @@ img{
   color: rgb(255, 255, 255);
   size-adjust: 10%;
   width: 10%;
+
 }
 #main{
   display: flex;
@@ -185,11 +189,15 @@ img{
 }
 
 .row1{
+  position: relative;
   display: flex;
   align-items: flex-start;
+  justify-content: space-around;
   margin-top: 20%;
   margin-left: 0px;
   margin-bottom: 10%;
+  width: 100%;
+
   
   
 }
@@ -212,3 +220,11 @@ p a{
     margin: 10%;
 
   }
+  #top{
+    position: relative;
+    top: -10px;
+    bottom: 10px;
+  }
+.container{
+  text-align: center;
+}
