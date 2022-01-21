@@ -175,7 +175,9 @@ img{
   margin-left: 0%;
   color: rgb(255, 255, 255);
   size-adjust: 10%;
-  width: 10%;
+  width: 20%;
+  margin-left: -10%;
+
 
 }
 #main{
@@ -227,4 +229,11 @@ p a{
   }
 .container{
   text-align: center;
+}
+h3{
+  font-size: 200%;
+  font-family:serif;
+  font-weight: bold;
+  margin: 10%;
+  color: #FFA500;
 }
