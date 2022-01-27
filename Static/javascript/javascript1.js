@@ -30,6 +30,20 @@ function FormDCourse(){
   window.location.href='pages/Dictionary.html';
 }
 function HomePage(){
-  window.location.href='C:/Users/kdess/OneDrive/Bureau/js code/Project-1-ELEWA-Academic/index.html';
+  window.location.href='../../index.html';
   
+}
+function EnglishForm1(){
+  window.location.href ='./EnglishSubjects/EnglishTopicsForm1.html';
+  
+}
+  
+function EnglishForm2(){
+  window.open('./EnglishSubjects/EnglishTopicsForm2.html')
+}
+function EnglishForm3(){
+  window.open('./EnglishSubjects/EnglishTopicsForm3.html')
+}
+function EnglishForm4(){
+  window.open('./EnglishSubjects/EnglishTopicsForm4.html')
 }
