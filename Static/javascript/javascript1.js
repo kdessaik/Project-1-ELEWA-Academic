@@ -13,7 +13,7 @@ function closeNav() {
 }
 
 
-/* on click buttons */
+/* on click buttons for index.html */
 function Form1Course(){
   window.location.href='pages/Form1.html';
 }
@@ -29,15 +29,16 @@ function Form4Course(){
 function FormDCourse(){
   window.location.href='pages/Dictionary.html';
 }
+/* on click buttons for HomePage i.e index.html */
 function HomePage(){
-  window.location.href='../index.html';
+  window.location.href='index.html';
   
 }
+
+/* on click buttons for Forms For English.html */
 function EnglishForm1(){
   window.location.href ='./EnglishSubjects/EnglishTopicsForm1.html';
-  
 }
-  
 function EnglishForm2(){
   window.location.href ='./EnglishSubjects/EnglishTopicsForm2.html';
 }
@@ -47,6 +48,7 @@ function EnglishForm3(){
 function EnglishForm4(){
   window.location.href ='./EnglishSubjects/EnglishTopicsForm4.html';
 }
+/* on click buttons for Forms For KiswahiliF.html */
 function KiswahiliF1(){
   window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm1.html';
 
@@ -63,7 +65,7 @@ function KiswahiliF4(){
   window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm4.html';
 
 }
-
+/* on click buttons for Forms For MathematicsF.html */
 function MathematicsF2(){
   window.location.href ='./MathematicSubjects/MathematicSubjectsForm2.html'; 
 }
@@ -77,6 +79,7 @@ function MathematicsF4(){
 function MathematicsF1(){
   window.location.href ='./MathematicSubjects/MathematicSubjectsForm1.html';
 }
+/* on click buttons for Forms For historiF.html */
 function historiF1(){
   window.location.href ='./HistorySubjects/HistorySubjectsForm1.html'
 }
@@ -89,6 +92,7 @@ function historiF3(){
 function historiF4(){
   window.location.href ='./HistorySubjects/HistorySubjectsForm4.html'
 }
+/* on click buttons for Forms For GeographyF.html */
 function GeographyF1(){
   window.location.href='./GeographySubjects/GeographySubjectsForm1.html'
 }
@@ -101,6 +105,7 @@ function GeographyF3(){
 function GeographyF4(){
   window.location.href='./GeographySubjects/GeographySubjectsForm4.html'
 }
+/* on click buttons for Forms For PhysicsF.html */
 function PhysicsF1(){
   window.location.href='./PhysicsSubjects/PhysicSubjectsForm1.html'
 }
@@ -113,6 +118,7 @@ function PhysicsF3(){
 function PhysicsF4(){
   window.location.href='./PhysicsSubjects/PhysicSubjectsForm4.html'
 }
+/* on click buttons for Forms For ChemistryF.html */
 function ChemistryF1(){
   window.location.href='./ChemistrySubjects/ChemistrySubjectsForm1.html'
 }
@@ -125,6 +131,7 @@ function ChemistryF3(){
 function ChemistryF4(){
   window.location.href='./ChemistrySubjects/ChemistrySubjectsForm4.html'
 }
+/* on click buttons for Forms For BiologyF.html */
 function BiologyF1(){
   window.location.href='./BiologySubjects/BiologySubjectForm1.html'
 }
