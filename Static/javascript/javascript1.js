@@ -30,7 +30,7 @@ function FormDCourse(){
   window.location.href='pages/Dictionary.html';
 }
 function HomePage(){
-  window.location.href='../../index.html';
+  window.location.href='../index.html';
   
 }
 function EnglishForm1(){
@@ -39,11 +39,111 @@ function EnglishForm1(){
 }
   
 function EnglishForm2(){
-  window.open('./EnglishSubjects/EnglishTopicsForm2.html')
+  window.location.href ='./EnglishSubjects/EnglishTopicsForm2.html';
 }
 function EnglishForm3(){
-  window.open('./EnglishSubjects/EnglishTopicsForm3.html')
+  window.location.href ='./EnglishSubjects/EnglishTopicsForm3.html';
 }
 function EnglishForm4(){
-  window.open('./EnglishSubjects/EnglishTopicsForm4.html')
+  window.location.href ='./EnglishSubjects/EnglishTopicsForm4.html';
 }
+function KiswahiliF1(){
+  window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm1.html';
+
+}
+function KiswahiliF2(){
+  window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm2.html';
+
+}
+function KiswahiliF3(){
+  window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm3.html';
+
+}
+function KiswahiliF4(){
+  window.location.href ='./KiswahiliSubjects/KiswahiliSubjectsForm4.html';
+
+}
+
+function MathematicsF2(){
+  window.location.href ='./MathematicSubjects/MathematicSubjectsForm2.html'; 
+}
+function MathematicsF3(){
+  window.location.href ='./MathematicSubjects/MathematicSubjectsForm3.html'; 
+
+}
+function MathematicsF4(){
+  window.location.href ='./MathematicSubjects/MathematicSubjectsForm4.html'; 
+}
+function MathematicsF1(){
+  window.location.href ='./MathematicSubjects/MathematicSubjectsForm1.html';
+}
+function historiF1(){
+  window.location.href ='./HistorySubjects/HistorySubjectsForm1.html'
+}
+function historiF2(){
+  window.location.href ='./HistorySubjects/HistorySubjectsForm2.html'
+}
+function historiF3(){
+  window.location.href ='./HistorySubjects/HistorySubjectsForm3.html'
+}
+function historiF4(){
+  window.location.href ='./HistorySubjects/HistorySubjectsForm4.html'
+}
+function GeographyF1(){
+  window.location.href='./GeographySubjects/GeographySubjectsForm1.html'
+}
+function GeographyF2(){
+  window.location.href='./GeographySubjects/GeographySubjectsForm2.html'
+}
+function GeographyF3(){
+  window.location.href='./GeographySubjects/GeographySubjectsForm3.html'
+}
+function GeographyF4(){
+  window.location.href='./GeographySubjects/GeographySubjectsForm4.html'
+}
+function PhysicsF1(){
+  window.location.href='./PhysicsSubjects/PhysicSubjectsForm1.html'
+}
+function PhysicsF2(){
+  window.location.href='./PhysicsSubjects/PhysicSubjectsForm2.html'
+}
+function PhysicsF3(){
+  window.location.href='./PhysicsSubjects/PhysicSubjectsForm3.html'
+}
+function PhysicsF4(){
+  window.location.href='./PhysicsSubjects/PhysicSubjectsForm4.html'
+}
+function ChemistryF1(){
+  window.location.href='./ChemistrySubjects/ChemistrySubjectsForm1.html'
+}
+function ChemistryF2(){
+  window.location.href='./ChemistrySubjects/ChemistrySubjectsForm2.html'
+}
+function ChemistryF3(){
+  window.location.href='./ChemistrySubjects/ChemistrySubjectsForm3.html'
+}
+function ChemistryF4(){
+  window.location.href='./ChemistrySubjects/ChemistrySubjectsForm4.html'
+}
+function BiologyF1(){
+  window.location.href='./BiologySubjects/BiologySubjectForm1.html'
+}
+function BiologyF2(){
+  window.location.href='./BiologySubjects/BiologySubjectForm2.html'
+}
+function BiologyF2(){
+  window.location.href='./BiologySubjects/BiologySubjectForm2.html'
+}
+function BiologyF3(){
+  window.location.href='./BiologySubjects/BiologySubjectForm3.html'
+}
+function BiologyF4(){
+  window.location.href='./BiologySubjects/BiologySubjectForm4.html'
+}
+function FormDCourseF1(){
+
+
+}
+
+
+
