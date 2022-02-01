@@ -151,6 +151,15 @@ function FormDCourseF1(){
 
 
 }
-
+//buttons in allForm in Mathematics page
+function WelcomeMathF1(){
+  window.location.href='../MathematicCourses/WelcomeForm1.html'
+}
+function GreatestF1(){
+  window.location.href='../MathematicCourses/Greatest.html'
+}
+function LastF1(){
+window.location.href='../MathematicCourses/LastCommonMultiple.html'
+}
 
 
