@@ -237,3 +237,24 @@ h3{
   margin: 10%;
   color: #FFA500;
 }
+iframe{
+  border: #FFA500;
+  border-radius: 10%;
+  box-shadow: 5px 10px 18px #888888;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  }
+iframe:hover{
+  zoom: 1.1;
+  
+}
+.Buttons{
+  background-color:#F0F3F4 ;
+}
+.btn-light{
+  background-color: #FFA500;
+}
+#All{
+  box-shadow: 0 8px 8px -4px lightblue;
+}
+
