@@ -161,5 +161,35 @@ function GreatestF1(){
 function LastF1(){
 window.location.href='../MathematicCourses/LastCommonMultiple.html'
 }
+function IntegersF1(){
+  window.location.href='../MathematicCourses/Integers.html'
+}
+function FractionsF1(){
+  window.location.href='../MathematicCourses/Fractions.html'
+}
+function DecimalsF1(){
+  window.location.href='../MathematicCourses/Decimals.html'
+}
+function AlgebraicF1(){
+  window.location.href='../MathematicCourses/Algebraic.html'
+}
+// buttons in History
+function historiF1(){
+  window.location.href='./HistoryCourses/HistoireF1.html'
+}
+//buttons in Geography
+function GeographyF1(){
+  window.location.href='./GeographyCourses/GeographyF1.html'
+}
+//buttons in Physics
+function PhysicsF1(){
+  window.location.href='./PhisicsCourses/PhysicscoursesF1.html'
+}
+function ChemistryF1(){
+  window.location.href='./ChemistryCourse/Chemistry.html'
+  }
+  function BiologyF1(){
+    window.location.href='./BiologyCourses/BiologyF1.html'
+  }
 
 
