@@ -265,6 +265,7 @@ iframe:hover{
 .Buttons{
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
   box-shadow: 0 8px 8px -4px lightblue;
 
 }
@@ -272,14 +273,32 @@ iframe:hover{
   background-color: #FFA500 ;
 }
 
-<<<<<<< Updated upstream
-.btn-light{
-  }
-=======
 #flex{
   display: flex;
   justify-content: center;
   box-shadow: 0 8px 8px -4px rgb(41, 42, 43);
 
 }
->>>>>>> Stashed changes
+.ButtonsIndex{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 8px 8px -4px lightblue;
+  width: 10%;
+  background-color: #d3d5d6;
+  margin-left: 40%;
+  background-size: 200%;
+
+
+}
+.ButtonsIndex button{
+  border-radius: 30%;
+  width: 300%;
+  height: 500%;
+}
+.Allbuttons{
+  background-color: #d3d5d6;
+  padding: 10%;
+  border-radius: 30%;
+
+}
