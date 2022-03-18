@@ -302,3 +302,23 @@ iframe:hover{
   border-radius: 30%;
 
 }
+@media only screen and (min-width:500px){
+
+
+}
+
+
+
+@media only screen and (min-width:1000px){
+ 
+  #home{
+    width: 10%;
+  }
+  .navbar-light{
+    position: fixed;
+    margin-left: 20%;
+    width: 90%;
+
+  }
+
+}
